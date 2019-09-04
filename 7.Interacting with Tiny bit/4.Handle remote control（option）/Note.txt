@@ -1,0 +1,2 @@
+First, we need to download the microbit-Tiny-bit-code.hex to the micro:bit board on the Tiny-bit robot car.
+Then, we need to download the handle control program (microbit-Handle_rocker_control.hex/microbit-Handle-gravity-control.hex) to the micro:bit board on the handle.

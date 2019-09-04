@@ -1,0 +1,1 @@
+In order to reduce the interference of other sounds on the voice sensor, we need to carry out this experiment in a relatively quiet environment.

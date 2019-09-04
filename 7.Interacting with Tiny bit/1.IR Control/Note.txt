@@ -1,0 +1,1 @@
+!!!Note:This experiment needs to be done indoors to reduce the interference of sunlight on the infrared receiver.
