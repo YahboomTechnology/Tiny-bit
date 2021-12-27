@@ -1,0 +1,1 @@
+Note:Please do not use the microbit online programming to open the Bluetooth program, otherwise there will be an error. If you want to use the Bluetooth remote control, please directly copy the hex file we provided to the microbit U disk.
