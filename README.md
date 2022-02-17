@@ -11,8 +11,6 @@ Tiny:bit is a robotic car for the micro:bit education market. It is compact, eas
 * Compatible with building block.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/Yahboom-Robot-Kit-Micro-Programming/dp/B07SS6C25K/ref=sr_1_8?m=A1N1A77RUX51FT&marketplaceID=ATVPDKIKX0DER&qid=1567571134&s=merchant-items&sr=1-8)
-
 [By on Yahboom website](https://category.yahboom.net/collections/new-arrival/products/tinybit)
 
 # Please Contact Us
